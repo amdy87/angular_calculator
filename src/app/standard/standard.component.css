@@ -1,0 +1,9 @@
+button {
+    width: 100px;
+    height: 75px;
+}
+
+.output {
+    text-align: right;
+    width: 400px;
+}
